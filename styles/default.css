@@ -110,7 +110,8 @@ p
 
 .style
 {
-	text-indent: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
 }
 .row::after 
 {
