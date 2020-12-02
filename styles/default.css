@@ -110,9 +110,11 @@ p
 
 .style
 {
+	width: 75;
 	padding-left: 20px;
 	padding-right: 20px;
 }
+
 .row::after 
 {
   content: "";
