@@ -108,6 +108,10 @@ p
 	text-align: center;
 }
 
+p .style
+{
+	text-indent: 50px;
+}
 .row::after 
 {
   content: "";
