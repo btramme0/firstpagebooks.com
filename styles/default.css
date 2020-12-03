@@ -48,7 +48,7 @@ q
 
 fieldset
 {
-	background color: #F0F8FF; !important;
+	background color: #F0F8FF !important;
 	width: 420px;
 	border: 5px #ff0000;
 	border-style: double;
@@ -58,6 +58,11 @@ fieldset
 	text-align: center; 
 }
 
+input, textarea
+{
+	margin-top: 10px;
+	display: block;
+}
 
 figure
 {
@@ -83,6 +88,7 @@ footer a
 {
 	color: #544a5f;
 }
+
 table, th, td
 {
 	font-size: 25px;  
