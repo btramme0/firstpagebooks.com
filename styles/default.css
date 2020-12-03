@@ -49,8 +49,9 @@ q
 fieldset
 {
 	background color: white;
-	width: 260px;
-	border: 3px #ff0000;
+	width: 420px;
+	border: 5px #ff0000;
+	border-style: double;
 	padding: 10px;
 	margin-bottom: 10px; 
 	text-align: center; 
