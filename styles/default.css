@@ -54,7 +54,8 @@ fieldset
 	border-style: double;
 	padding: 10px;
 	margin-left: 420px;
-	margin-bottom: 10px; 
+	margin-bottom: 10px;
+	text-align: center; 
 }
 
 input, textarea
