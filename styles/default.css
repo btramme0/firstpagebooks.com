@@ -55,13 +55,11 @@ fieldset
 	padding: 10px;
 	margin-left: 410px;
 	margin-bottom: 10px;
-	align-content: center; 
+	align-content: center;
+	font-size: 25px; 
+	column-width: 50px; 
 }
 
-input, textarea
-{
-	margin-top: 15px;
-}
 
 figure
 {
