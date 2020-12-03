@@ -48,13 +48,12 @@ q
 
 fieldset
 {
-	background color: #008B8B;
+	background color: #F0F8FF;
 	width: 420px;
 	border: 5px #ff0000;
 	border-style: double;
 	padding 10px;
-	margin-left:50px;
-	margin-righ:50px;
+	margin-left: 200px;
 	margin-bottom: 10px; 
 	text-align: center; 
 }
