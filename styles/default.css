@@ -28,7 +28,7 @@ nav
 {
 	background-color: #2F4F4F;
 	overflow: hidden;
-	border: 8px solid FloralWhite;
+	border-bottom: 8px solid FloralWhite;
 	font-family: Apple Chancery, cursive !important;
 }
 
