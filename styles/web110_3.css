@@ -23,7 +23,9 @@ nav
 {
 	background-color: #2F4F4F;
 	overflow: hidden;
-	border: 0 10px 0 0 solid FloralWhite
+	border-width: 10px 0;
+	border-style: solid;
+	border-color: FloralWhite;
 }
 
 .navbar a
