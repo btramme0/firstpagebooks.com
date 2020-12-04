@@ -21,13 +21,12 @@ header
 
 .navbar
 {
-	boarder: solid FloralWhite;
-	boarder-width: 8px, 0px;
+	border: solid FloralWhite;
+	border-width: 8px, 0px;
 	background-color: #2F4F4F;
 	overflow: hidden; 
 	font-family: Apple Chancery, cursive !important;
 	display: block;
-}
 
 .navbar a
 {
@@ -36,7 +35,8 @@ header
 	padding: 14px 16px;
 	text-decoration: none;
 	font-size: 45px;
-	position: center; 
+	position: absolute; 
+
 }
 
 h2, h3, footer, p
