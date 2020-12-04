@@ -18,11 +18,15 @@ header
 	clear: right;
 }
 
+div
+{
+	
+	border: solid FloralWhite;
+	border-width: 8px, 0px;
+}
 
 .navbar
 {
-	border: solid FloralWhite;
-	border-width: 8px, 0px;
 	background-color: #2F4F4F;
 	overflow: hidden; 
 	font-family: Apple Chancery, cursive !important;
