@@ -22,7 +22,7 @@ header
 .navbar
 {
 	boarder: solid FloralWhite;
-	boarder width: 8px, 0px;
+	boarder-width: 8px, 0px;
 	background-color: #2F4F4F;
 	overflow: hidden; 
 	font-family: Apple Chancery, cursive !important;
