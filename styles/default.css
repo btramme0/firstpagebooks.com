@@ -27,6 +27,7 @@ header
 	border-top: 8px solid FloralWhite; 
 	border-bottom: 8px solid FloralWhite;
 	font-family: Apple Chancery, cursive !important;
+	display: block;
 }
 
 .navbar a
