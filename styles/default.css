@@ -86,12 +86,16 @@ figcaption
 footer
 {
 	text-align: center;
-	color: #DAA520;
 }
 
 footer a
 {
 	color: #544a5f;
+}
+
+footer em
+{
+	color: #DAA520;
 }
 
 table, th, td
