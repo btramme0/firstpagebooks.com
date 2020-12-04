@@ -110,6 +110,12 @@ p
 	text-align: center;
 }
 
+.style
+{
+	padding-left: 35px;
+	padding-right: 35px;
+}
+
 .row::after 
 {
   content: "";
