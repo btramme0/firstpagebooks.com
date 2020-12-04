@@ -3,7 +3,7 @@ body
 	color: #7D7D7D;
 	background-color: #66CDAA;
 	font-size: 20px;
-	font-family: Tahoma, sans-serif !important;
+	font-family: Tahoma, sans-serif;
 	border: 8px solid FloralWhite;
 }
 
@@ -39,7 +39,7 @@ nav
 	padding: 14px 16px;
 	text-decoration: none;
 	font-size: 45px;
-	font-famliy: Luminari, fantasy;
+	font-famliy: Luminari, fantasy !important;
 }
 
 h2, h3, footer, p
