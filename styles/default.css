@@ -3,7 +3,7 @@ body
 	color: #7D7D7D;
 	background-color: #66CDAA;
 	font-size: 20px;
-	font-family: Tahoma, sans-serif;
+	font-family: Tahoma, sans-serif !important;
 	border: 8px solid FloralWhite;
 }
 
