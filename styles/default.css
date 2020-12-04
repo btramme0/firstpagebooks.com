@@ -24,7 +24,6 @@ header
 	background-color: #2F4F4F;
 	overflow: hidden; 
 	font-family: Apple Chancery, cursive !important;
-	display: block;
 
 .navbar a
 {
@@ -35,8 +34,8 @@ header
 	font-size: 45px;
 	position: absolute; 
 	letter-spacing: 15px;
-	border: solid FloralWhite;
-	border-width: 8px, 0px;
+	border: 8px 0 solid FloralWhite;
+	
 
 }
 
