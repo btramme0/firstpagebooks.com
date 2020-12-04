@@ -15,7 +15,7 @@ header
 .logo
 {
  	float: left;
-	clear: left;
+	clear: right;
 }
 
 nav
