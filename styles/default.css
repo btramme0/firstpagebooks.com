@@ -18,6 +18,10 @@ header
 	clear: right;
 }
 
+nav
+{
+	display: block
+}
 
 .navbar
 {
