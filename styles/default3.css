@@ -4,7 +4,8 @@ body
 	color: #7D7D7D;
 	background-color: #66CDAA;
 	font-family: Tahoma, sans-serif;
-	border: 8px solid FloralWhite;
+	border: 8px 0px; 
+	border-atyle: solid FloralWhite;
 }
 
 header
@@ -69,6 +70,12 @@ footer a
 {
 	color: #544a5f;
 }
+
+footer em
+{
+ color: #C58358;
+}
+
 table, th, td
 {
 	font-size: 25px;  
