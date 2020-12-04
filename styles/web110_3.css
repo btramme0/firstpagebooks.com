@@ -4,9 +4,7 @@ body
 	color: #7D7D7D;
 	background-color: #66CDAA;
 	font-family: Tahoma, sans-serif;
-	border: 0 0 8px 0px; 
-	border-style: solid; 
-	border-color: FloralWhite;
+	border: 8px solid FloralWhite;
 }
 
 header
@@ -20,11 +18,12 @@ nav
 	float: left
 }
 
+
 .navbar
 {
 	background-color: #2F4F4F;
 	overflow: hidden;
-	border: 10px solid FloralWhite
+	border: 0 10px 0 0 solid FloralWhite
 }
 
 .navbar a
