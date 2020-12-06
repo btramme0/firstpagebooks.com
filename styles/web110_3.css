@@ -113,6 +113,13 @@ p main
 {
 	text-align: center;
 }
+
+q
+{
+	text-style: italics;
+	text-align: center;
+}
+
 .style
 {
 	padding-left: 35px;
