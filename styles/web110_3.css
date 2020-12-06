@@ -114,11 +114,12 @@ p
 	margin-right: 25px;
 }
 
-main em
+em
 {
 	text-style: italic; 
 	textalign: center; 
 }
+
 .style
 {
 	padding-left: 35px;
