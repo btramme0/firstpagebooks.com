@@ -43,11 +43,6 @@ h1, h2, h3
 	text-align: center;
 }
 
-main a
-{
-	text-align: center; 
-}
-
 figure
 {
 	text-align: center;
@@ -114,12 +109,10 @@ p
 	margin-right: 25px;
 }
 
-em
+p main
 {
-	text-style: italic; 
-	textalign: center; 
+	text-align: center;
 }
-
 .style
 {
 	padding-left: 35px;
