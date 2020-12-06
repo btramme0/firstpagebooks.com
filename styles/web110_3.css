@@ -112,6 +112,11 @@ p
 	text-align: center;
 }
 
+q
+{
+	text-style: italic; 
+	textalign: center; 
+}
 .style
 {
 	padding-left: 35px;
