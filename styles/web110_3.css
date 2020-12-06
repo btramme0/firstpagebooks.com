@@ -7,12 +7,6 @@ body
 	border: 8px solid FloralWhite;
 }
 
-body a
-{
-	text-align: center;
-}
-
-
 header
 {
 	text-align: center;	
@@ -44,9 +38,14 @@ nav
 	font-size: 45px;
 }
 
-h2, h3, main
+h1, h2, h3, q
 {
 	text-align: center;
+}
+
+main a
+{
+	text-align: center; 
 }
 
 figure
@@ -111,8 +110,7 @@ table
 p
 {
 	text-align: center;
-	margin-left: 25px;
-	margin-right: 25px
+}
 
 .style
 {
